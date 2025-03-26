@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/gps-coordinates-finder.git
+   git clone https://github.com/Eshab01/gps-coordinates-finder.git
    ```
 
 2. Navigate to the project directory:
@@ -45,12 +45,6 @@ If an error occurs, the application will display one of the following messages:
 - "Location information unavailable."
 - "Location request timed out."
 - "Geolocation is not supported by this browser."
-
-## Demo
-You can try the live version [here](#) (replace with actual link if hosted).
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributing
 Feel free to contribute to this project by submitting issues or pull requests.
