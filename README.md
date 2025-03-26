@@ -56,5 +56,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Eshab
 
